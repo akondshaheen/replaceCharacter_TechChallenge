@@ -1,0 +1,1 @@
+Rpelace character with it's occurrence. 
